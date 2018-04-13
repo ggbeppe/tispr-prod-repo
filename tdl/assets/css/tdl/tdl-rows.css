@@ -1,0 +1,71 @@
+p {
+  color:#333;
+  margin-top:16px;
+}
+
+section .first-section-heading {
+  font-size:38px;
+  line-height:58px;
+  margin-top:64px;
+  font-weight:400;
+}
+
+section .content-first {
+  margin-top:24px;
+}
+
+section p {
+  font-size:14px;
+  line-height:22px;
+  margin-top:16px;
+}
+
+section .section-heading {
+  font-size:28px;
+  line-height:42px;
+  margin-top:64px;
+}
+
+section .small-section-heading {
+  font-size:20px;
+  line-height:30px;
+  margin-top:32px;
+}
+
+section .fine-print-section-heading {
+  font-size:12px;
+  line-height:18px;
+  margin-top:64px;
+}
+
+section p.fine-print {
+  font-size:12px;
+  line-height:18px;
+  margin-top:8px;
+}
+
+section p.fine-print.content-first {
+  margin-top:16px;
+}
+
+footer {
+  min-height:96px;
+}
+
+.emphasis {
+  background-color:#FFF9C3;
+  padding:8px;
+  border-radius:2px;
+}
+
+.table thead th {
+  vertical-align:bottom;
+  border-bottom:1px dashed #ccc;
+}
+
+.table td, .table th {
+  padding:.75rem;
+  vertical-align:middle;
+  border-top:1px dashed #ccc;
+}
+

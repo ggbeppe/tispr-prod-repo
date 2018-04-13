@@ -1,0 +1,72 @@
+.navbar-brand img {
+  width:60px;
+}
+
+.navbar.sticky-top {
+  background-color:#ffffff;
+  /*-webkit-box-shadow:0px 2px 4px 0px rgba(0,0,0,0.2);*/
+  /*-moz-box-shadow:0px 2px 4px 0px rgba(0,0,0,0.2);*/
+  /*box-shadow:0px 2px 4px 0px rgba(0,0,0,0.2);*/
+  border-bottom:1px solid #eee;
+}
+
+.sidebar-left {
+  background-color:#333;
+  position:fixed;
+  left:0;
+  bottom:0;
+  top:60px;
+  overflow-y:auto;
+  overflow-x:hidden;
+  padding-top:0px;
+  padding-bottom:16px;
+}
+
+.sidebar-left ul {
+  color:#878787;
+  margin:0;
+  padding-left:16px;
+  margin-top:24px;
+}
+
+.sidebar-left li.child {
+  list-style-type:none;
+  margin-left:20px;
+  text-indent:10px;
+  margin-top:4px;
+}
+
+.sidebar-left li.child:before {
+  float:left;
+  margin:0 0 0 -26.5px;
+  width:1em;
+  content:'\25E6';
+}
+
+.sidebar-left a {
+  color:#878787;
+  text-decoration:none;
+  display:block;
+}
+
+.sidebar-left li.disabled:hover {
+  color:#878787;
+}
+
+.sidebar-left li:hover, .sidebar-left a:hover {
+  color:#eee;
+}
+
+.sidebar-left li.parent {
+  list-style-type:none;
+}
+
+.sidebar-left li.parent i {
+  margin-right:16px;
+  font-size:14px;
+}
+
+.sidebar-left li.active, .sidebar-left li.active a, .sidebar-left li.active i {
+  color:#eee;
+}
+

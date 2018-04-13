@@ -1,0 +1,53 @@
+.t-bg-brand-primary {
+  background-color:#675dc6;
+}
+
+.t-bg-brand-secondary {
+  background-color:#2CBCD5;
+}
+
+.t-bg-green {
+  background-color:#82C783;
+}
+
+.t-bg-red {
+  background-color:#EC6A66;
+}
+
+.t-bg-yellow {
+  background-color:#EEAE47;
+}
+
+.t-bg-black {
+  background-color:#000000;
+}
+
+.t-bg-dark {
+  background-color:#333333;
+}
+
+.t-bg-gray-dark {
+  background-color:#898989;
+}
+
+.t-bg-gray-medium {
+  background-color:#cccccc;
+}
+
+.t-bg-gray-light {
+  background-color:#eeeeee;
+}
+
+.t-bg-gray-extra-light {
+  background-color:#f8f8f8;
+}
+
+.t-bg-white {
+  background-color:#ffffff;
+  border:1px solid #eee;
+}
+
+.t-bg-lemon {
+  background-color:#FFF9C3;
+}
+

@@ -1,0 +1,31 @@
+.color-swatch {
+  width:220px;
+  margin-right:24px;
+  margin-top:24px;
+}
+
+.elevation-swatch {
+  width:500px;
+  margin-right:24px;
+  margin-top:24px;
+}
+
+.color-swatch .swatch {
+  height:48px;
+  width:100%;
+}
+
+.color-swatch .name {
+  margin-top:2px;
+  font-weight:600;
+}
+
+.color-swatch .code {
+  margin-top:2px;
+  font-weight:normal;
+  text-align:right;
+}
+
+section {
+}
+
